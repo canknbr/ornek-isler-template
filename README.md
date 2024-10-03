@@ -1,2 +1,3 @@
 HTML-CSS-JS-GSAP ile yapılmış örnek sayfadır
-[screenshot](./assets/ornek.mov)
+
+![Screenshot](./assets/ss1.png)
